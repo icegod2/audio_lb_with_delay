@@ -18,4 +18,4 @@ else
 fi
 
 echo "啟動應用程式..."
-python main.py "$@"
+python3 main.py "$@"
